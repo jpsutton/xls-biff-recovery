@@ -150,7 +150,7 @@ Additionally, when using the `--debug` flag with `extract_workbook_biff.py`, it 
 
 ## License
 
-This project is licensed under the GNU General Purpose License (version 2) - see the LICENSE file for details.
+This project is licensed under the GNU General Public License (version 2) - see the LICENSE file for details.
 
 ## Contributing
 
